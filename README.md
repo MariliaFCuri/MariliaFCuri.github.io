@@ -1,1 +1,6 @@
-# Data Analyst and Data Scientist
+# Data Scientist
+
+#### Technical Skills: Python, R, SQL, PowerBI
+
+## Education
+- Computer Science | Universidade Anhembi Morumbi
