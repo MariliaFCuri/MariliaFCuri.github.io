@@ -7,7 +7,7 @@
 - Law – Universidade São Judas Tadeu
 
 ## Postgraduate Degree
-- Digital Law and General Data Protection Law – EBRADI
+- Digital Law and LGPD (Brazilian Data Protection Law) – EBRADI
 
 ## Additional Courses
 - Data Analytics and Business Analysis for the Fashion Industry: Build a Smart and Data-driven Fashion Company – Udemy
